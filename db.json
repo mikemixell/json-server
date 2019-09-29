@@ -2,10 +2,10 @@
   "artwork" : [
     {
       "id":"1",
-      "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-      "external_url": "https://openseacreatures.io/3", 
-      "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png", 
-      "name": "Dave Starbelly"
+      "description": "Certificate of authenticity for owning a work by Mike Mixell. FR169 is a limited Edition of 15 (across all formats).", 
+      "external_url": "https://mixell.de/products/fr169", 
+      "image": "https://cdn.shopify.com/s/files/1/0140/5334/3296/products/004_72d28e0b-2aab-42e1-bd99-9cb0f8191fa4_1000x.png?v=1569069707", 
+      "name": "FR169"
     },
     {
       "id":"2",
